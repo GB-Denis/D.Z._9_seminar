@@ -130,8 +130,6 @@ void CheckingDiff(double[] numbers)
         {
             min = numbers[i];
         }
-        else i++;
-        // Console.WriteLine($"{numbers[i]} {min}");
     }
     Console.WriteLine($"Максимальный элемент в массиве {max} , минимальный элемент в массиве {min}.");
     Console.WriteLine($"Разница между ними {max - min}");
