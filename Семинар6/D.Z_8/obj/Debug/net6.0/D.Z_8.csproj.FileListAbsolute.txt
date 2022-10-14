@@ -1,0 +1,15 @@
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.csproj.AssemblyReference.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.AssemblyInfoInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.AssemblyInfo.cs
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.csproj.CoreCompileInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\bin\Debug\net6.0\D.Z_8.exe
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\bin\Debug\net6.0\D.Z_8.deps.json
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\bin\Debug\net6.0\D.Z_8.runtimeconfig.json
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\bin\Debug\net6.0\D.Z_8.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\bin\Debug\net6.0\D.Z_8.pdb
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\refint\D.Z_8.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.pdb
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\D.Z_8.genruntimeconfig.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар6\D.Z_8\obj\Debug\net6.0\ref\D.Z_8.dll
