@@ -1,0 +1,15 @@
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\bin\Debug\net6.0\D.Z_9.exe
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\bin\Debug\net6.0\D.Z_9.deps.json
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\bin\Debug\net6.0\D.Z_9.runtimeconfig.json
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\bin\Debug\net6.0\D.Z_9.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\bin\Debug\net6.0\D.Z_9.pdb
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.csproj.AssemblyReference.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.AssemblyInfoInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.AssemblyInfo.cs
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.csproj.CoreCompileInputs.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\refint\D.Z_9.dll
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.pdb
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\D.Z_9.genruntimeconfig.cache
+C:\Users\dfazy\Desktop\GB\GIT\С#\Семинар\Семинар7\D.Z_9\obj\Debug\net6.0\ref\D.Z_9.dll
